@@ -1,0 +1,7 @@
+{
+	"alloc": {
+		"<coinbase_account>":{
+		"balance": "100000000000000000000"
+		}
+	}
+}
