@@ -1,5 +1,5 @@
 #!/bin/bash
-# Setting evm-lite config
+# Setting evm-lite env config
 
 mkdir -p /root/.evm-lite/eth
 mkdir -p /root/.evm-lite/tendermint
